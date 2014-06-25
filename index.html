@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Archives
+css: index
+js: index
 ---
 
 <div class="home">
@@ -9,7 +12,7 @@ layout: default
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-date">{{ post.date | date: "%Y %-d %b %H:%m" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
