@@ -1,7 +1,7 @@
 # Site settings
-title: God save the variance!
+title: God save the uncertainty!
 email: enrico.giampieri@unibo.it
-description: "my blog for ranting about decision theory, statistics and stuff"
+description: "my blog for ranting about decision theory, statistics, programming in python and other random stuff"
 baseurl: ""
 url: "http://EnricoGiampieri.github.com"
 

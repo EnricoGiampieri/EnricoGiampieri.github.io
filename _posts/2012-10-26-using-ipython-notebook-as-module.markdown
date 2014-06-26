@@ -3,7 +3,7 @@ layout: post
 title:  "Using an IPython Notebook as a module"
 date:   2012-10-26 18:17:00
 categories: introduction
-tags: [sequence python]
+tags: [ipython python module]
 ---
 
 ###{{page.tags}}###
