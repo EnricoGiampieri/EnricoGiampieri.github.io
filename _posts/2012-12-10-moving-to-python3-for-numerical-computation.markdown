@@ -28,4 +28,3 @@ then we can just plug the normal installation process using the pip-3.2
     sudo pip-3.2 install -U cython
 
 Sadly mayavi, scikit-learn, numexpr, biopython and tables are still working on the transition, so they're not yet available. This leave the numerical side of python quite crippled, but I hope that they will soon reach the others and allow us to use py3k as the rest of the world out there. 
-

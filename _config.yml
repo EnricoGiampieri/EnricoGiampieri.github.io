@@ -1,5 +1,5 @@
 # Site settings
-title: God save the uncertainty!
+title: un pitone a san luca
 email: enrico.giampieri@unibo.it
 description: "my blog for ranting about decision theory, statistics, programming in python and other random stuff"
 baseurl: ""
@@ -8,3 +8,5 @@ url: "http://EnricoGiampieri.github.com"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+baseurl: "http://enricogiampieri.github.io/"
